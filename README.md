@@ -34,11 +34,3 @@ AllLife Bank, a US-based financial institution, wants to increase its personal l
 3. **Model Building:** Logistic Regression, Decision Tree, Random Forest, Gradient Boosting/XGBoost  
 4. **Model Evaluation:** Compared models using Accuracy, Precision, Recall, F1, ROC-AUC  
 5. **Business Insights:** Identified key drivers (income, balance, education, experience, etc.)  
-
----
-
-## 🚀 How to Run  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/Personal-Loan-Campaign.git
-   cd Personal-Loan-Campaign
